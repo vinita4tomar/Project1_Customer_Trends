@@ -5,7 +5,7 @@ shopping_trends_data.csv is the dataset
 
 customer_trends_code.ipynb contains code used for massaging and analyzing data. Creating visual graphs to figure out different trends.
 
-*.ppt is the presentation given by group with the key findings of the analysis
+Group 2 - Analysis.pptx is the presentation given by group with the key findings of the analysis
 #Data analysis 
 Seasonal Data: 
   Is there variation in purchasing patterns with seasons? 
@@ -39,7 +39,8 @@ Gender:
 
     Population distribution shows that there is higher percentage of male population. 2/3rd population is male as compared to 1/3 femaile
     Both genders spent highest on Clothing category and lowest on Outwear. 
-    US$ ~34,000 spent by females compared to US$ ~70,000 males counterpart on Clothing. Clothing category contributed to 45% of total spending compared to just 8% by outerwear.
+    US$ ~34,000 spent by females compared to US$ ~70,000 males counterpart on Clothing. Clothing category contributed to 45% of total 
+    spending compared to just 8% by outerwear.
     Cash, paypal and Credit card are the most preferred mode of payment but one payment method is not overly preffered over the other by the customers.
 
 Age: 
