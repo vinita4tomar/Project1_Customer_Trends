@@ -38,7 +38,8 @@ Gender:
     Summary statistics were used to analyze the relationship between different gender and their spending patterns.
 
     Population distribution shows that there is higher percentage of male population. 2/3rd population is male as compared to 1/3 femaile
-    Both genders spent highest on Clothing category and lowest on Outwear. US$ ~34,000 spent by females compared to US$ ~70,000 males counterpart on Clothing. Clothing category contributed     to 45% of total spending compared to just 8% by outerwear.
+    Both genders spent highest on Clothing category and lowest on Outwear. 
+    US$ ~34,000 spent by females compared to US$ ~70,000 males counterpart on Clothing. Clothing category contributed to 45% of total spending compared to just 8% by outerwear.
     Cash, paypal and Credit card are the most preferred mode of payment but one payment method is not overly preffered over the other by the customers.
 
 Age: 
