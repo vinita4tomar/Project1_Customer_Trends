@@ -52,6 +52,12 @@ Age:
      The 18 - 25 and 26 - 40 age groups show more similar spending patterns.
      There is a significant drop in purchase amounts in the outerwear category for all age groups when compared to other categories.
 
+Seasonal Trends
+What seasonal trends existed among the variables in the consumer trends data set?
+First, an initial analysis of the relationships was performed to assess. Item type purchased and color of item purchased were selected as two variables of most interest for further inquiry. Both of these variables comprised of many (20+) elements and resulted in busy graphics. The data was cleaned in pandas using a selection process for elements of interest. Four to five elements were selected qualitatively to best represent the full range of values, taking into account maximum, minimum, and central tendency. The colors data was paired down to 5 colors of interest. Brown is an example of a color that remained relatively constant throughout the year, while the others selected saw more movement. For example, purchases of silver items peaks significantly in the Fall, perhaps corresponding the winter holiday attire. A Chi-Squared Test of Independence was performed for the categorical data. For color, the chi squared value of 0.473 was less than critical value 21.026, suggesting that there is not enough evidence to conclude a significant association between color and season.
+An analogous process process was used to graph items purchased by season. These items best represented the full set of purchased items. Purchases of jeans remained constant throughout the year, and also represents the middle of the pack among all items. You can see a similar trend in that both hats and sweaters see a peak of purchases in the warmer time of the year (spring and summer respectively). This would seem counterintuitive at first, but malls typically offer clearance sales after peak season for items which could explain this trend. For items, the chi squared value of 24.42 was greater than the critical value of 16.916, suggesting there is enough evidence to conclude a significant association between item purchased and season.
+
+
 
 
 
